@@ -1,0 +1,19 @@
+ body{
+   margin: 0;
+   padding: 0;
+   display: flex;
+   min-height: 100vh;
+   flex-wrap: wrap;
+   flex-direction: column;
+ }
+ footer{
+   flex-direction: column;
+   flex-wrap: wrap;
+   margin-top: auto;
+ }
+ footer p {
+    font-size: small;
+ }
+ .bg-blue{
+        background-color: #003D79 !important;
+ }

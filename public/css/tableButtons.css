@@ -1,0 +1,42 @@
+.material-icons{
+    font-size: 15px;
+}
+#delete {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    display: flex;
+    margin-top: auto;
+    margin-block-end: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+td .row{
+    max-width: 100%;
+    margin: 0%;
+    justify-content: center;
+    align-items: center;
+}
+table{
+    
+    max-height: 300px;
+}
+iframe{
+    height: 40%;
+    min-width: 100%;
+}
+.my-custom-scrollbar {
+    position: relative;
+    height: 40%;
+    overflow: auto;
+}
+.table-wrapper-scroll-y {
+display: block;
+}
+th{
+    position: sticky;
+    top: 0;
+}
